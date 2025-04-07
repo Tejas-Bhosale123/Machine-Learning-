@@ -1,5 +1,5 @@
 This project showcases a complete Data Science pipeline integrating Machine Learning to solve a real-world problem using Python. 
-It includes data preprocessing, exploratory analysis, model training, evaluation, and final predictions
+It includes data preprocessing, exploratory analysis, model training, evaluation, and final predictions.
 
 ✅ Key Highlights
 📊 Data Cleaning and Preprocessing
